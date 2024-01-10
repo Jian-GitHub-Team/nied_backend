@@ -8,3 +8,6 @@ Zhang Zeyuan's thesis, an intelligent home automation system (backend).
 - idea test \[zzy\]:
   - Push OK.
   - Pull OK.
+  - - idea test \[111zzy\]:
+  - Push OK.
+  - Pull OK.
